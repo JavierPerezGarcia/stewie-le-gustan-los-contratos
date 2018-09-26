@@ -1,0 +1,32 @@
+/*
+  Imagen1: https://manzdev.github.io/eoi-fullstack/css/stewie.png
+  Imagen2: https://manzdev.github.io/eoi-fullstack/css/stewie-seal.png
+*/
+
+@import "https://fonts.google.com/specimen/Oswald";
+
+body {
+  background-color: yellow;
+}
+
+.aviso {
+  font-family: 'Oswald', sans-serif;
+  background-color: rgb(255, 125, 5);
+  width: 600px;
+  margin: auto;
+  padding: 20px 40px;
+  border: 4px solid #f50000;
+}
+
+p {
+  
+  text-align: justify;
+  
+}
+ 
+ul {
+  
+  text-align: justify;
+  
+}
+
